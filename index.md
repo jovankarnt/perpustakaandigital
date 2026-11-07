@@ -3,7 +3,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Digital Library Research](ebook/Digital Library Research.pdf) – Chowdhury. G. G. & Chowdhury. S (1999) 
-2. [Digital Humanities in The Library](ebook/Digital%20Humanities%20In%20The%20Library.pdf) – Hartsell-Gundy, Braunstein, & Golomb (2024)
+2. [Digital Humanities in The Library](ebook/Digital%20Humanities%20in%20The%20Library.pdf) – Hartsell-Gundy, Braunstein, & Golomb (2024)
 3. [Literacy Skills as Local Intangible Capital](ebook/Literacy%20Skills%20as%20Local%20Intangible%20Capital.pdf) — Sofia Kotilainen (2016)
 4. [A Classification for Medical and Veterinary Libraries](ebook/A%20Classification%20for%20Medical%20and%20Veterinary%20Libraries.pdf) — Cyril C. Barnard, revised by Eloise Carpenter (2024)
 5. [Innovations and Challenges in Digital Literacies](ebook/Innovations%20and%20Challenges%20in%20Digital%20Literacies.pdf)  — Rodney H. Jones (2025)
