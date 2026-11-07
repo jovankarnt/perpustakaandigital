@@ -14,6 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Inclusive Leadership in Academic Libraries](ebook/Inclusive%20Leadership%20in%20Academic%20Libraries.pdf) — Bélanger, DeVito, & Meier (2026)
 11. [Open Movements](ebook/Open%Movements.pdf) — Elder, Smith, & Ricupero (2026)
 ## Ringkasan UGC
-12. [Ringkasan Materi UGC dan Wawasan Baru](ebook/Ringkasan%20Materi%20UGC.pdf) — Jovanka Renata Kusma (13040124130095)
+1. [Ringkasan Materi UGC dan Wawasan Baru](ebook/Ringkasan%20Materi%20UGC.pdf) — Jovanka Renata Kusma (13040124130095)
 ---
 *Powered by GitHub Pages*
