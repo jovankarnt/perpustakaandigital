@@ -12,7 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Manajemen Aset Digital](ebook/Manajemen%20Aset%20Digital.pdf) — Andi Asari et al. (2024)
 9. [Assessment and Advocacy](ebook/Assessment%20and%20Advocacy.pdf) — Gena Parsons-Diamond (2024)
 10. [Inclusive Leadership in Academic Libraries](ebook/Inclusive%20Leadership%20in%20Academic%20Libraries.pdf) — Bélanger, DeVito, & Meier (2026)
-11. [Buku Ilmu Perpustakaan](ebook/Buku%Ilmu%Perpustakaan.pdf) — — Miftah Khulzannah et al. (2025)
+11. [Buku Ilmu Perpustakaan](ebook/Buku%Ilmu%Perpustakaan.pdf) — Miftah Khulzannah et al. (2025)
 ## Ringkasan UGC
 1. [Ringkasan Materi UGC dan Wawasan Baru](ebook/Ringkasan%20Materi%20UGC.pdf) — Jovanka Renata Kusma (13040124130095)
 ---
